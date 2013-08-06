@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="RSSReader_Green" parent="android:Theme.Light">
+
+    <item name="android:editTextStyle">@style/EditTextRSSReader_Green</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewRSSReader_Green</item>
+
+    <item name="android:checkboxStyle">@style/CheckBoxRSSReader_Green</item>
+
+    <item name="android:radioButtonStyle">@style/RadioButtonRSSReader_Green</item>
+
+    <item name="android:buttonStyle">@style/ButtonRSSReader_Green</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonRSSReader_Green</item>
+
+    <item name="android:spinnerStyle">@style/SpinnerRSSReader_Green</item>
+
+    <item name="android:dropDownSpinnerStyle">@style/SpinnerRSSReader_Green.DropDown</item>
+
+    <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItemRSSReader_Green</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarRSSReader_Green</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarRSSReader_Green</item>
+
+    <item name="android:ratingBarStyle">@style/RatingBarRSSReader_Green</item>
+
+    <item name="android:ratingBarStyleIndicator">@style/RatingBarBigRSSReader_Green</item>
+
+    <item name="android:ratingBarStyleSmall">@style/RatingBarSmallRSSReader_Green</item>
+
+    <item name="android:buttonStyleToggle">@style/ToggleRSSReader_Green</item>
+
+    <item name="android:listViewStyle">@style/ListViewRSSReader_Green</item>
+
+    <item name="android:listViewWhiteStyle">@style/ListViewRSSReader_Green.White</item>
+
+    <item name="android:spinnerItemStyle">@style/SpinnerItemRSSReader_Green</item>
+
+
+  </style>
+
+</resources>
